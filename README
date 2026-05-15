@@ -19,13 +19,13 @@ The project contains two blog cards with images, icons and descriptions.
 
 ### Coffee Accessories Card
 
-![Coffee Blog](images/1.png)
+![Coffee Blog](./images/1.png)
 
 ---
 
 ### Camera Accessories Card
 
-![Camera Blog](images/2.png)
+![Camera Blog](./images/2.png)
 
 ---
 
@@ -33,11 +33,11 @@ The project contains two blog cards with images, icons and descriptions.
 
 Coffee Image:
 
-![Coffee](images/img-1.jpg)
+![Coffee](./images/img-1.jpg)
 
 Camera Image:
 
-![Camera](images/img-2.jpg)
+![Camera](./images/img-2.jpg)
 
 ---
 
